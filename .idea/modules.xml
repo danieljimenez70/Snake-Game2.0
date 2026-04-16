@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Snake-Game2.0.iml" filepath="$PROJECT_DIR$/.idea/Snake-Game2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Snake_Game 2.0/Snake_Game2.0.iml" filepath="$PROJECT_DIR$/Snake_Game 2.0/Snake_Game2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/snakeColabo.iml" filepath="$PROJECT_DIR$/.idea/snakeColabo.iml" />
     </modules>
   </component>
 </project>
